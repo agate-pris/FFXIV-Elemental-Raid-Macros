@@ -387,42 +387,42 @@ DPS → MT → ST → D1/D2 → D3
 
 ## 息吹 2 回目
 
-This iteration of 息吹 is different because we **do not** want to stack opposite tethers.
+息吹 2 回目は 1 回目と異なり、対面の線を**重ねない**。
 
-There are two main methods to resolve this.
+2 つの異なる処理法がある。
 
-### Method 1: Fixed positions
+### 処理法１：位置固定
 
-This method fixes all player positions (except for the tanks), greatly simplifying the mechanic.
+この処理法では、すべてのプレイヤーが定位置（タンクを除く）で攻撃を受ける。非常にシンプルにギミックを処理できる。
 
-However, player positioning is precise, and depending on which dragon players are tethered to, they may take additional damage.
+ただし、位置取りがシビアで、さらに近いドラゴンと繋がれている場合はダメージが増加する場合がある。
 
 <table>
   <tr>
     <td width="50%">
       <ul>
-        <li><b>MT:</b> NW if you get the single-target tankbuster (by Nidhogg).</li>
-        <li><b>ST:</b> SE if you get the single-target tankbuster (by Hraesvelgr).</li>
+        <li><b>MT：</b> （ニーズヘッグの）単体強攻撃を受ける場合は北西。</li>
+        <li><b>ST：</b> （フレースヴェルグの）単体強攻撃を受ける場合は南東。</li>
       </ul>
-      <p><em>Tanks should use where the outer AoE intersects the boss's targeting circle as a reference point.</em></p>
+      <p><em>タンクは外周の AoE とターゲットサークルの交点を参照する必要がある。</em></p>
       <ul>
-        <li><b>H1:</b> As far true North as you can go.</li>
-        <li><b>H2:</b> As far true South as you can go.</li>
+        <li><b>H1：</b> 最北端。</li>
+        <li><b>H2：</b> 最南端。</li>
       </ul>
-      <p><em>Be careful if a tank gets a single-target tankbuster, as you </em>may<em> be in range if poorly positioned.</em></p>
+      <p><em>タンクが単体強攻撃を受ける場合、位置が悪いと巻き込まれる</em>場合がある<em>ので注意。</em></p>
       <ul>
-        <li><b>D1:</b> NW corner of the white tile beside Nidhogg.</li>
-        <li><b>D2:</b> Between the two white tiles besides Hraesvelgr.</li>
-        <li><b>D3:</b> 1/2 a tile west of the western "train track", as far south as you can go.</li>
-        <li><b>D4:</b> 1/2 a tile east of the eastern "train track", as far north as you can go.</li>
+        <li><b>D1：</b> ニーズヘッグ付近の白いタイルの北西の角。</li>
+        <li><b>D2：</b> フレースヴェルグ付近の 2 枚の白いタイルの間。</li>
+        <li><b>D3：</b> 西側の床の模様の 1/2 タイル西、できるだけ南。</li>
+        <li><b>D4：</b> 東側の床の模様の 1/2 タイル東、できるだけ北。</li>
       </ul>
-      <p><em>Depending on which dragon you are tethered to, your tether <b>may not stretch fully</b>. Use personal mitigations to help survive.</em></p>
+      <p><em>どちらのドラゴンと線で結ばれているかによって線を<b>伸ばし切ることができない場合がある</b>。死なないように個々人で軽減アビリティを使用する。</em></p>
     </td>
-    <td><img src="../images/fixed_wyrmsbreath2.jpg"><a href="../images/fixed_wyrmsbreath2.jpg"><em>(Full-sized image)</em></a></td>
+    <td><img src="../images/fixed_wyrmsbreath2.jpg"><a href="../images/fixed_wyrmsbreath2.jpg"><em>（フルサイズの画像）</em></a></td>
   </tr>
 </table>
 
-### Method 2: Spread tethers 5 North, 1 South (5-1)
+### 処理法２：北 5 、南 1 散開（5-1）
 
 This method has one player go south to give additional space for the other five non-tanks to spread out along the North edge.
 
