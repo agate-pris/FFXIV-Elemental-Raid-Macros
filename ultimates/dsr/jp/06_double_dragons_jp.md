@@ -358,13 +358,13 @@ DPS → MT → ST → D1/D2 → D3
 以下にいくつかの例を示す：
 
 <details>
-<summary><b>[ホーリーウィング 2 回目]</b> Hot Wing, head up</summary>
+<summary><b>[ホーリーウィング 2 回目]</b> ヒートウィング、フレースヴェルグが首を上げている場合</summary>
 <table>
   <tr>
     <td width="50%">
-      <p>Hot Wing means all party members must stay near the E/W line.</p>
-      <p>Heads up means the tanks are away from Hraesvelgr, and the rest of the party is towards Hraesvelgr.</p>
-      <p>The MT takes the western-most position.</p>
+      <p>ヒートウィングの場合、ヒーラーと DPS は東か西の端に集まる必要がある。</p>
+      <p>頭を上げている場合、タンクはフレースヴェルグから離れる必要がある。ヒーラーと DPS はフレースヴェルグに近づく。</p>
+      <p>MT は西の端。</p>
     </td>
     <td><img src="../images/double_dragons/hallowed_wings_02_01.jpg"></td>
   </tr>
@@ -372,7 +372,7 @@ DPS → MT → ST → D1/D2 → D3
 </details>
 
 <details>
-<summary><b>[ホーリーウィング 2 回目]</b> Hot Tail, head down</summary>
+<summary><b>[ホーリーウィング 2 回目]</b> ヒートテイル、フレースヴェルグが首を下げている場合</summary>
 <table>
   <tr>
     <td width="50%">
