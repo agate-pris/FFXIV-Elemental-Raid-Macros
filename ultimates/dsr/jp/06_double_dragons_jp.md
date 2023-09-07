@@ -208,7 +208,7 @@ DPS → MT → ST → D1/D2 → D3
     <td width="50%"><p><b>1.</b> 開始位置を特定する。</p>
       <ol>
         <li>フレースヴェルグのカータライズを回避する。</li>
-        <li><b>2</b> 組目の真紅の珠からできるだけ離れる。</li>
+        <li>真紅の珠 <b>2</b> 組目からできるだけ離れる。</li>
       </ol>
       <p><em>（右図はフレースヴェルグのカータライズが東側反面焼きの場合）</em></p>
     </td>
@@ -216,20 +216,20 @@ DPS → MT → ST → D1/D2 → D3
   </tr>
   <tr>
     <td>
-      <p><b>2.</b> フレースヴェルグのカータライズが着弾し、アク・モーン初撃のダメージ床が発生する。</p>
+      <p><b>2.</b> フレースヴェルグのカータライズが着弾。同時にアク・モーン初撃のダメージ床を捨てる。</p>
       <p>アク・モーン初撃後の移動は常に東西方向（東から西、または西から東）。</p>
     </td>
     <td><img src="../images/double_dragons/wroth_flames_ex_01_02.jpg"></td>
   </tr>
   <tr>
     <td>
-      <p><b>3.</b> 1 組目の真紅の弾が爆発。これを回避しながら、2 撃目のアク・モーンを受け、ダメージ床を捨てる。</p>
+      <p><b>3.</b> 真紅の弾 1 組目が爆発。これを回避しながら、2 撃目のアク・モーンのダメージ床を捨てる。</p>
     </td>
     <td><img src="../images/double_dragons/wroth_flames_ex_01_03.jpg"></td>
   </tr>
   <tr>
     <td>
-      <p><b>4.</b> 3、4 初目のアク・モーンのダメージ床を捨てる。</p>
+      <p><b>4.</b> 3、4 発目のアク・モーンのダメージ床を捨てる。</p>
     </td>
     <td><img src="../images/double_dragons/wroth_flames_ex_01_04.jpg"></td>
   </tr>
@@ -259,106 +259,106 @@ DPS → MT → ST → D1/D2 → D3
 以下にいくつかの例を示す：
 
 <details>
-<summary><b>[邪念の炎]</b> Hraesvelgr middle (uptime available), 2-to-1 dodge</summary>
+<summary><b>[邪念の炎]</b> フレースヴェルグが中央（近接が殴れる）、2 から 1 へ回避</summary>
 <table>
   <tr>
     <td width="50%">
-      <p><b>1.</b> Identify the starting location.</p>
+      <p><b>1.</b> 開始位置を特定する。</p>
       <ul>
-        <li>Since Hraesvelgr's in the center, the party can start either west or east.</li>
-        <li>In this case, west gives the party melee uptime on Nidhogg, but with a 2-1 dodge.</li>
+        <li>フレースヴェルグが中央にいるため、東西のどちらからも開始できる。</li>
+        <li>この場合、西から開始すれば近接がニーズヘッグを殴れるが、真紅の珠 2 回目の範囲から 1 回目の範囲に駆け込んで回避することになる。</li>
       </ul>
     </td>
     <td><img src="../images/double_dragons/wroth_flames_ex_02_01.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>2.</b> Hraesvelgr's Cauterize resolves. Drop first Akh Morn puddle.</p></td>
+    <td><p><b>2.</b> フレースヴェルグのカータライズが着弾。同時にアク・モーン初撃のダメージ床を捨てる。</p></td>
     <td><img src="../images/double_dragons/wroth_flames_ex_02_02.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>3.</b> First set of eye AoEs resolve. Drop the second Akh Morn puddle without getting hit.</p></td>
+    <td><p><b>3.</b> 真紅の珠 1 組目が爆発。これを回避しながら、2 撃目のアク・モーンのダメージ床を捨てる。</p></td>
     <td><img src="../images/double_dragons/wroth_flames_ex_02_03.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>4.</b> Drop third and fourth Akh Morn puddles.</p></td>
+    <td><p><b>4.</b> 3、4 発目のアク・モーンのダメージ床を捨てる。</p></td>
     <td><img src="../images/double_dragons/wroth_flames_ex_02_04.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>5.</b> Move to the middle, identify whether Nidhogg is casting Hot Wing or Hot Tail.</p></td>
+    <td><p><b>5.</b> 中央に移動し、ニーズヘッグの詠唱がヒートウィングかヒートテイルかを確認する。</p></td>
     <td><img src="../images/double_dragons/wroth_flames_ex_02_05.jpg"></td>
   </tr>
 </table>
 </details>
 
 <details>
-<summary><b>[邪念の炎]</b> Hraesvelgr west (forced downtime), 2-to-1 dodge</summary>
+<summary><b>[邪念の炎]</b> フレースヴェルグ西（近接が殴れない）、2 から 1 へ回避</summary>
 <table>
   <tr>
     <td width="50%">
-      <p><b>1.</b> Identify the starting location.</p>
+      <p><b>1.</b>  開始位置を特定する。</p>
       <ul>
-        <li>Since Hraesvelgr's west, the party can only start east.</li>
-        <li>The furthest position away from the second set of eyes is NE.</li>
+        <li>フレースヴェルグが西にいるため、東からしか開始できない。</li>
+        <li>真紅の珠 2 組目から最も遠い場所は北東。</li>
       </ul>
     </td>
     <td><img src="../images/double_dragons/wroth_flames_ex_03_01.jpg"></td>
   </tr>
   <tr>
-    <td><b>2.</b> Hraesvelgr's Cauterize resolves. Drop first Akh Morn puddle.</td>
+    <td><b>2.</b> フレースヴェルグのカータライズが着弾。同時にアク・モーン初撃のダメージ床を捨てる。</td>
     <td><img src="../images/double_dragons/wroth_flames_ex_03_02.jpg"></td>
   </tr>
   <tr>
-    <td><b>3.</b> First set of eye AoEs resolve. Drop the second Akh Morn puddle without getting hit.</td>
+    <td><b>3.</b> 真紅の珠 1 組目が爆発。これを回避しながら、2 撃目のアク・モーンのダメージ床を捨てる。</td>
     <td><img src="../images/double_dragons/wroth_flames_ex_03_03.jpg"></td>
   </tr>
   <tr>
-    <td><b>4.</b> Drop third and fourth Akh Morn puddles.</td>
+    <td><b>4.</b> 3、4 発目のアク・モーンのダメージ床を捨てる。</td>
     <td><img src="../images/double_dragons/wroth_flames_ex_03_04.jpg"></td>
   </tr>
   <tr>
-    <td><b>5.</b> Move to the middle, identify whether Nidhogg is casting Hot Wing or Hot Tail.</td>
+    <td><b>5.</b> 中央に移動し、ニーズヘッグの詠唱がヒートウィングかヒートテイルかを確認する。</td>
     <td><img src="../images/double_dragons/wroth_flames_ex_03_05.jpg"></td>
   </tr>
 </table>
 </details>
 
-## Second half
+## 後半
 
-The second half is a rehash of the first, with slightly different spins on the same mechanics from earlier.
+後半は前半の焼き直しだが、ギミックが前半とは少しだけ異なる。
 
 <table>
   <tr>
     <td width="50%">
-      <p><b>1. Akh Afah #2</b></p>
-      <p>Depending on how much uptime the party got earlier with ホーリーウィング #1 and 邪念の炎, the two dragons' HP may be skewed to one side.</p>
+      <p><b>1. アク・アファー 2 回目</b></p>
+      <p>ホーリーウィング 1 回目と邪念の炎の間にどれだけ殴ったかによって、フレースヴェルグとニー←エッグの HP がどちらか一方に偏る場合がある。</p>
     </td>
     <td><img src="../images/double_dragons/akh_afah.jpg"></td>
   </tr>
   <tr>
     <td>
-      <p><b>2. ホーリーウィング #2</b></p>
-      <p>This time, ホーリーウィング will happen in combination with Hot Wing <em>or</em> Hot Tail from Nidhogg.</p>
+      <p><b>2. ホーリーウィング 2 回目</b></p>
+      <p>ホーリーウィングとニーズヘッグからのヒートウィング<em>または</em>ヒートテイルの複合。</p>
       <ul>
-        <li><b>MT: </b> Takes the western position.</li>
-        <li><b>ST: </b> Takes the eastern position.</li>
+        <li><b>MT：</b> 西側</li>
+        <li><b>ST：</b> 東側</li>
       </ul>
-      <p><em>(This example has Hot Wing with Hraesvelgr's head up.)</em></p>
+      <p><em>（右図はヒートウィング、フレースヴェルグが首を上げていてるパターン）</em></p>
     </td>
     <td><img src="../images/double_dragons/hallowed_wings_02_01.jpg"></td>
   </tr>
   <tr>
     <td>
-      <p><b>3. Mortal Vow pass #3</b></p>
-      <p>This pass goes from the ST to D1, <em>unless</em> D1 started with the first Mortal Vow, in which case ST passes to D2 instead.</p>
+      <p><b>3. 滅殺の誓い受け渡し 3 回目</b></p>
+      <p>ST から D1 に滅殺の誓い受け渡し。<em>ただし</em> 滅殺の近いが D1 開始だった場合、ST は代わりに D2 にデバフを渡す。</p>
     </td>
     <td><img src="../images/double_dragons/mortal_vow_04.jpg"></td>
   </tr>
 </table>
 
-Here are some other potential configurations to consider:
+以下にいくつかの例を示す：
 
 <details>
-<summary><b>[ホーリーウィング #2]</b> Hot Wing, head up</summary>
+<summary><b>[ホーリーウィング 2 回目]</b> Hot Wing, head up</summary>
 <table>
   <tr>
     <td width="50%">
@@ -372,7 +372,7 @@ Here are some other potential configurations to consider:
 </details>
 
 <details>
-<summary><b>[ホーリーウィング #2]</b> Hot Tail, head down</summary>
+<summary><b>[ホーリーウィング 2 回目]</b> Hot Tail, head down</summary>
 <table>
   <tr>
     <td width="50%">
@@ -385,9 +385,9 @@ Here are some other potential configurations to consider:
 </table>
 </details>
 
-## Wyrmsbreath 2
+## 息吹 2 回目
 
-This iteration of Wyrmsbreath is different because we **do not** want to stack opposite tethers.
+This iteration of 息吹 is different because we **do not** want to stack opposite tethers.
 
 There are two main methods to resolve this.
 
@@ -445,7 +445,7 @@ All tethers can be fully stretched, however, players will need to adjust their p
 
 ## Cauterize
 
-The reason why we did not stack opposite tethers in Wyrmsbreath #2 was because we needed the fire/ice debuffs in order to survive this mechanic.
+The reason why we did not stack opposite tethers in 息吹 #2 was because we needed the fire/ice debuffs in order to survive this mechanic.
 
 <table>
   <tr>
@@ -476,13 +476,13 @@ The reason why we did not stack opposite tethers in Wyrmsbreath #2 was because w
 
 * DRK is the only tank that doesn't *actually* need Rampart in this phase, as Dark Mind's cooldown is quick enough for it to be available for both ホーリーウィング.
 * There are strats where only one tank invulns Cauterize, or neither tank invulns Cauterize in order to have a 1-1-6 Akh Morn's edge in P7. While the recommended PF strat is to just invuln Cauterize, a static may consider having just one tank invuln Hraesvelgr's Cauterize (and have the other mitigate Nidhogg's). I personally wouldn't recommend having both tanks mitigate Cauterize.
-* If a tank was hit by a fire or ice tether in Wyrmsbreath #2, they should also go in front of the appropriate dragon to get their debuff cleansed by Cauterize.
+* If a tank was hit by a fire or ice tether in 息吹 #2, they should also go in front of the appropriate dragon to get their debuff cleansed by Cauterize.
 * If someone happens to move after the fire debuff turns into Pyretic, they should keep moving into the wall, or into Nidhogg's side so they do **not** die to Hraesvelgr.
 
 ## Frequently Asked Questions
 
 <details markdown=block>
-<summary><b>[Wyrmsbreath #1]</b> I took extra damage even though I wasn't tethered- why is that?</summary>
+<summary><b>[息吹 #1]</b> I took extra damage even though I wasn't tethered- why is that?</summary>
 <table>
   <tr><td><p><b>Both</b> dragon's damage are based on proximity, even if you are not actually tethered to them.</p><p>You can think of the tethers as just directing where the breaths will go; the colour change is a proximity indicator of that particular player-dragon pair, but you still have to worry about proximity to the other dragon.</p></td></tr>
 </table>
