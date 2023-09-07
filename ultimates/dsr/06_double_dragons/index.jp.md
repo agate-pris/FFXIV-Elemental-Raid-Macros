@@ -391,7 +391,7 @@ DPS → MT → ST → D1/D2 → D3
 
 2 つの異なる処理法がある。
 
-### 処理法１：位置固定
+### 処理法 1：位置固定
 
 この処理法では、すべてのプレイヤーが定位置（タンクを除く）で攻撃を受ける。非常にシンプルにギミックを処理できる。
 
@@ -422,7 +422,7 @@ DPS → MT → ST → D1/D2 → D3
   </tr>
 </table>
 
-### 処理法２：北 5 、南 1 散開（5-1）
+### 処理法 2：北 5 、南 1 散開（5-1）
 
 This method has one player go south to give additional space for the other five non-tanks to spread out along the North edge.
 
