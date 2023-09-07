@@ -3,7 +3,7 @@ layout: default
 title: "6. 二天竜フェーズ"
 parent: "Lv 90. DSR [jp] 絶竜詩"
 grand_parent: Ultimates
-permalink: /ultimates/dsr/06_double_dragons_jp/
+permalink: /ultimates/dsr/06_double_dragons/jp/
 ---
 
 # 二天竜フェーズ
@@ -78,7 +78,7 @@ DPS → MT → ST → D1/D2 → D3
       </ul>
       <p>このタイミングで 2 回目の薬を割る。</p>
     </td>
-    <td><img src="../images/double_dragons/wyrmsbreath_01_01.jpg"></td>
+    <td><img src="../images/wyrmsbreath_01_01.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -87,7 +87,7 @@ DPS → MT → ST → D1/D2 → D3
       <p><b>これらの位置は近接の攻撃範囲内ではない。</b></p>
       <p><em>（中心位置の基準として利用できる白いタイルに注意する）</em></p>
     </td>
-    <td><img src="../images/double_dragons/tethers_01.jpg"></td>
+    <td><img src="../images/tethers_01.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -99,7 +99,7 @@ DPS → MT → ST → D1/D2 → D3
       </ul>
       <p><em>（右図では、D1 と D3 が交代する）</em></p>
     </td>
-    <td><img src="../images/double_dragons/wyrmsbreath_01_02.jpg"></td>
+    <td><img src="../images/wyrmsbreath_01_02.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -110,14 +110,14 @@ DPS → MT → ST → D1/D2 → D3
       </ul>
       <p><em>（右図はニーズヘッグの口が光っている場合）</em></p>
     </td>
-    <td><img src="../images/double_dragons/wyrmsbreath_01_03.jpg"></td>
+    <td><img src="../images/wyrmsbreath_01_03.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>5. 滅殺の誓い</b></p>
       <p>DPS 散開。ニーズヘッグがランダムな DPS に滅殺の誓いを付与する（範囲攻撃）。</p>
     </td>
-    <td><img src="../images/double_dragons/mortal_vow_01.jpg"></td>
+    <td><img src="../images/mortal_vow_01.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -130,7 +130,7 @@ DPS → MT → ST → D1/D2 → D3
         <li><b>線が白：</b>フレースヴェルグの HP が高すぎる。</li>
       </ul>  
     </td>
-    <td><img src="../images/double_dragons/akh_afah.jpg"></td>
+    <td><img src="../images/akh_afah.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -145,14 +145,14 @@ DPS → MT → ST → D1/D2 → D3
       </ul>
       <p><em>（右図はフレースヴェルグが首を下げている場合）</em></p>
     </td>
-    <td><img src="../images/double_dragons/hallowed_wings_01_01.jpg"></td>
+    <td><img src="../images/hallowed_wings_01_01.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>8. 滅殺の誓い受け渡し 1 回目</b></p>
       <p>最初にニーズヘッグに滅殺の誓いを付与された DPS が中央で MT にデバフを受け渡す。</p>
     </td>
-    <td><img src="../images/double_dragons/mortal_vow_02.jpg"></td>
+    <td><img src="../images/mortal_vow_02.jpg"></td>
   </tr>
 </table>
 
@@ -166,7 +166,7 @@ DPS → MT → ST → D1/D2 → D3
       <p>首を上げている場合、タンクは離れ、ヒーラーと DPS は近づく。</p>
       <p>MT は北側で攻撃を受ける。</p>
     </td>
-    <td><img src="../images/double_dragons/hallowed_wings_01_02.jpg"></td>
+    <td><img src="../images/hallowed_wings_01_02.jpg"></td>
   </tr>
 </table>
 </details>
@@ -179,7 +179,7 @@ DPS → MT → ST → D1/D2 → D3
       <p>首を下げている場合、タンクは近づき、ヒーラーと DPS は離れる。</p>
       <p>MT は北側で攻撃を受ける。</p>
     </td>
-    <td><img src="../images/double_dragons/hallowed_wings_01_03.jpg"></td>
+    <td><img src="../images/hallowed_wings_01_03.jpg"></td>
   </tr>
 </table>
 </details>
@@ -192,7 +192,7 @@ DPS → MT → ST → D1/D2 → D3
       <p>首を上げている場合、タンクは離れ、ヒーラーと DPS は近づく。</p>
       <p>MT は北側で攻撃を受ける。</p>
     </td>
-    <td><img src="../images/double_dragons/hallowed_wings_01_04.jpg"></td>
+    <td><img src="../images/hallowed_wings_01_04.jpg"></td>
   </tr>
 </table>
 </details>
@@ -212,32 +212,32 @@ DPS → MT → ST → D1/D2 → D3
       </ol>
       <p><em>（右図はフレースヴェルグのカータライズが東側反面焼きの場合）</em></p>
     </td>
-    <td><img src="../images/double_dragons/wroth_flames_ex_01_01.jpg"></td>
+    <td><img src="../images/wroth_flames_ex_01_01.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>2.</b> フレースヴェルグのカータライズが着弾。同時にアク・モーン初撃のダメージ床を捨てる。</p>
       <p>アク・モーン初撃後の移動は常に東西方向（東から西、または西から東）。</p>
     </td>
-    <td><img src="../images/double_dragons/wroth_flames_ex_01_02.jpg"></td>
+    <td><img src="../images/wroth_flames_ex_01_02.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>3.</b> 真紅の弾 1 組目が爆発。これを回避しながら、2 撃目のアク・モーンのダメージ床を捨てる。</p>
     </td>
-    <td><img src="../images/double_dragons/wroth_flames_ex_01_03.jpg"></td>
+    <td><img src="../images/wroth_flames_ex_01_03.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>4.</b> 3、4 発目のアク・モーンのダメージ床を捨てる。</p>
     </td>
-    <td><img src="../images/double_dragons/wroth_flames_ex_01_04.jpg"></td>
+    <td><img src="../images/wroth_flames_ex_01_04.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>5.</b> 中央に移動し、ニーズヘッグの詠唱がヒートウィングかヒートテイルかを確認する。</p>
     </td>
-    <td><img src="../images/double_dragons/wroth_flames_ex_01_05.jpg"></td>
+    <td><img src="../images/wroth_flames_ex_01_05.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -246,13 +246,13 @@ DPS → MT → ST → D1/D2 → D3
       <pre><code>（中央）タンク > ヒーラー > 遠隔 DPS > 近接 DPS（外周）</code></pre>
       <p>散開側は、安地の端と端に立っていればお互いの AoE には当たらない。</p>
     </td>
-    <td><img src="../images/double_dragons/wroth_flames_ex_01_06.jpg"></td>
+    <td><img src="../images/wroth_flames_ex_01_06.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>7.</b> 最後に、MT から ST に滅殺の誓いを渡す。</p>
     </td>
-    <td><img src="../images/double_dragons/mortal_vow_03.jpg"></td>
+    <td><img src="../images/mortal_vow_03.jpg"></td>
   </tr>
 </table>
 
@@ -269,23 +269,23 @@ DPS → MT → ST → D1/D2 → D3
         <li>この場合、西から開始すれば近接がニーズヘッグを殴れるが、真紅の珠 2 回目の範囲から 1 回目の範囲に駆け込んで回避することになる。</li>
       </ul>
     </td>
-    <td><img src="../images/double_dragons/wroth_flames_ex_02_01.jpg"></td>
+    <td><img src="../images/wroth_flames_ex_02_01.jpg"></td>
   </tr>
   <tr>
     <td><p><b>2.</b> フレースヴェルグのカータライズが着弾。同時にアク・モーン初撃のダメージ床を捨てる。</p></td>
-    <td><img src="../images/double_dragons/wroth_flames_ex_02_02.jpg"></td>
+    <td><img src="../images/wroth_flames_ex_02_02.jpg"></td>
   </tr>
   <tr>
     <td><p><b>3.</b> 真紅の珠 1 組目が爆発。これを回避しながら、2 撃目のアク・モーンのダメージ床を捨てる。</p></td>
-    <td><img src="../images/double_dragons/wroth_flames_ex_02_03.jpg"></td>
+    <td><img src="../images/wroth_flames_ex_02_03.jpg"></td>
   </tr>
   <tr>
     <td><p><b>4.</b> 3、4 発目のアク・モーンのダメージ床を捨てる。</p></td>
-    <td><img src="../images/double_dragons/wroth_flames_ex_02_04.jpg"></td>
+    <td><img src="../images/wroth_flames_ex_02_04.jpg"></td>
   </tr>
   <tr>
     <td><p><b>5.</b> 中央に移動し、ニーズヘッグの詠唱がヒートウィングかヒートテイルかを確認する。</p></td>
-    <td><img src="../images/double_dragons/wroth_flames_ex_02_05.jpg"></td>
+    <td><img src="../images/wroth_flames_ex_02_05.jpg"></td>
   </tr>
 </table>
 </details>
@@ -301,23 +301,23 @@ DPS → MT → ST → D1/D2 → D3
         <li>真紅の珠 2 組目から最も遠い場所は北東。</li>
       </ul>
     </td>
-    <td><img src="../images/double_dragons/wroth_flames_ex_03_01.jpg"></td>
+    <td><img src="../images/wroth_flames_ex_03_01.jpg"></td>
   </tr>
   <tr>
     <td><b>2.</b> フレースヴェルグのカータライズが着弾。同時にアク・モーン初撃のダメージ床を捨てる。</td>
-    <td><img src="../images/double_dragons/wroth_flames_ex_03_02.jpg"></td>
+    <td><img src="../images/wroth_flames_ex_03_02.jpg"></td>
   </tr>
   <tr>
     <td><b>3.</b> 真紅の珠 1 組目が爆発。これを回避しながら、2 撃目のアク・モーンのダメージ床を捨てる。</td>
-    <td><img src="../images/double_dragons/wroth_flames_ex_03_03.jpg"></td>
+    <td><img src="../images/wroth_flames_ex_03_03.jpg"></td>
   </tr>
   <tr>
     <td><b>4.</b> 3、4 発目のアク・モーンのダメージ床を捨てる。</td>
-    <td><img src="../images/double_dragons/wroth_flames_ex_03_04.jpg"></td>
+    <td><img src="../images/wroth_flames_ex_03_04.jpg"></td>
   </tr>
   <tr>
     <td><b>5.</b> 中央に移動し、ニーズヘッグの詠唱がヒートウィングかヒートテイルかを確認する。</td>
-    <td><img src="../images/double_dragons/wroth_flames_ex_03_05.jpg"></td>
+    <td><img src="../images/wroth_flames_ex_03_05.jpg"></td>
   </tr>
 </table>
 </details>
@@ -332,7 +332,7 @@ DPS → MT → ST → D1/D2 → D3
       <p><b>1. アク・アファー 2 回目</b></p>
       <p>ホーリーウィング 1 回目と邪念の炎の間にどれだけ殴ったかによって、フレースヴェルグとニー←エッグの HP がどちらか一方に偏る場合がある。</p>
     </td>
-    <td><img src="../images/double_dragons/akh_afah.jpg"></td>
+    <td><img src="../images/akh_afah.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -344,14 +344,14 @@ DPS → MT → ST → D1/D2 → D3
       </ul>
       <p><em>（右図はヒートウィング、フレースヴェルグが首を上げていてるパターン）</em></p>
     </td>
-    <td><img src="../images/double_dragons/hallowed_wings_02_01.jpg"></td>
+    <td><img src="../images/hallowed_wings_02_01.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>3. 滅殺の誓い受け渡し 3 回目</b></p>
       <p>ST から D1 に滅殺の誓い受け渡し。<em>ただし</em> 滅殺の近いが D1 開始だった場合、ST は代わりに D2 にデバフを渡す。</p>
     </td>
-    <td><img src="../images/double_dragons/mortal_vow_04.jpg"></td>
+    <td><img src="../images/mortal_vow_04.jpg"></td>
   </tr>
 </table>
 
@@ -366,7 +366,7 @@ DPS → MT → ST → D1/D2 → D3
       <p>頭を上げている場合、タンクはフレースヴェルグから離れる必要がある。ヒーラーと DPS はフレースヴェルグに近づく。</p>
       <p>MT は西の端。</p>
     </td>
-    <td><img src="../images/double_dragons/hallowed_wings_02_01.jpg"></td>
+    <td><img src="../images/hallowed_wings_02_01.jpg"></td>
   </tr>
 </table>
 </details>
@@ -380,7 +380,7 @@ DPS → MT → ST → D1/D2 → D3
       <p>Heads up means the tanks are away from Hraesvelgr, and the rest of the party is towards Hraesvelgr.</p>
       <p>The MT takes the western-most position.</p>
     </td>
-    <td><img src="../images/double_dragons/hallowed_wings_02_02.jpg"></td>
+    <td><img src="../images/hallowed_wings_02_02.jpg"></td>
   </tr>
 </table>
 </details>
@@ -418,7 +418,7 @@ However, player positioning is precise, and depending on which dragon players ar
       </ul>
       <p><em>Depending on which dragon you are tethered to, your tether <b>may not stretch fully</b>. Use personal mitigations to help survive.</em></p>
     </td>
-    <td><img src="../images/double_dragons/fixed_wyrmsbreath2.jpg"><a href="../images/double_dragons/fixed_wyrmsbreath2.jpg"><em>(Full-sized image)</em></a></td>
+    <td><img src="../images/fixed_wyrmsbreath2.jpg"><a href="../images/fixed_wyrmsbreath2.jpg"><em>(Full-sized image)</em></a></td>
   </tr>
 </table>
 
@@ -439,7 +439,7 @@ All tethers can be fully stretched, however, players will need to adjust their p
       </ul>
       <p><em>(In this example, Hraesvelgr's mouth is glowing).</em></p>
     </td>
-    <td><img src="../images/double_dragons/wyrmsbreath_02.jpg"></td>
+    <td><img src="../images/wyrmsbreath_02.jpg"></td>
   </tr>
 </table>
 
@@ -460,7 +460,7 @@ The reason why we did not stack opposite tethers in 息吹 #2 was because we nee
       </ul>
       <p><b>Do not move</b> once Nidhogg's debuff turns into Pyretic, or Hraesvelgr's Cauterize will kill you and enrage.</p><p>If you moved and took Pyretic damage, quickly switch over to Nidhogg's side to avoid getting killed by Hraesvelgr.</p>
     </td>
-    <td><img src="../images/double_dragons/cauterize_01.jpg"></td>
+    <td><img src="../images/cauterize_01.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -468,7 +468,7 @@ The reason why we did not stack opposite tethers in 息吹 #2 was because we nee
       <p>After Cauterize, everybody gathers north to avoid Nidhogg's and Hraesvelgr's Touchdown damage.</p>
       <p>After Touchdown, all players move away from the stack point <em>except</em> the DPS with Mortal Vow and D3.</p>
     </td>
-    <td><img src="../images/double_dragons/mortal_vow_05.jpg"></td>
+    <td><img src="../images/mortal_vow_05.jpg"></td>
   </tr>
 </table>
 
@@ -490,6 +490,6 @@ The reason why we did not stack opposite tethers in 息吹 #2 was because we nee
 <details markdown=block>
 <summary><b>[邪念の炎]</b> Is there a pattern to how the debuffs are assigned?</summary>
 <table>
-  <tr><td><p>Unfortunately not- the debuff distribution is random.</p><p>Here's an example where two of the no-debuff players are both DPS.</p></td><td><img src="../images/double_dragons/wroth_flames_debuffs.jpg"></td></tr>
+  <tr><td><p>Unfortunately not- the debuff distribution is random.</p><p>Here's an example where two of the no-debuff players are both DPS.</p></td><td><img src="../images/wroth_flames_debuffs.jpg"></td></tr>
 </table>
 </details>
